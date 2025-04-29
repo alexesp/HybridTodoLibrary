@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorLibrary", "RazorLibrar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServer", "BlazorServer\BlazorServer.csproj", "{2D814B15-D7EF-484D-AB76-1BFCA0529D68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{34378C14-072E-44A7-BFA1-1DD26B2942BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2D814B15-D7EF-484D-AB76-1BFCA0529D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D814B15-D7EF-484D-AB76-1BFCA0529D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D814B15-D7EF-484D-AB76-1BFCA0529D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34378C14-072E-44A7-BFA1-1DD26B2942BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34378C14-072E-44A7-BFA1-1DD26B2942BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34378C14-072E-44A7-BFA1-1DD26B2942BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34378C14-072E-44A7-BFA1-1DD26B2942BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
